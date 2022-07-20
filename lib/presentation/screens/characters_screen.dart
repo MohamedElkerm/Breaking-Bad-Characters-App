@@ -7,7 +7,7 @@ class CharactersScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Text(
-        'MohamedElkerm2'
+        'MohamedElkerm'
       ),
     );
   }
